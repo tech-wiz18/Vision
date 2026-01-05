@@ -9,7 +9,7 @@ Along with this repository, it is needed to have the following repository:
 
 Follow the steps given in these repositories and install the packages required.
 
-You can either run the code directly on visual studio using [Vision.sln](https://github.com/milind-prajapat/Vision/blob/main/Vision.sln) or can run [Solution.py](https://github.com/milind-prajapat/Vision/blob/main/Solution.py).
+You can either run the code directly on visual studio using [Vision.sln](https://github.com/tech-wiz18/Vision/blob/main/Vision.sln) or can run [Solution.py](https://github.com/tech-wiz18/Vision/blob/main/Solution.py).
 
 ## Approach
 1. The arena was converted into a 2D matrix using image processing techniques where a particular node number denoted each square of the arena.
